@@ -12,7 +12,6 @@ The backend for the Todo web application is built using the following technologi
 - **JWT (JSON Web Token)**: Secure user authentication and authorization mechanism.  
 - **Swagger**: API documentation tool for clear and interactive API specifications.  
 
-[Link to tutorial video I have watched for this project](https://www.youtube.com/watch?v=YXQr2LhYm0c&t=728s)
 
 ![Todo Web](image.png)
 
